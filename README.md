@@ -12,7 +12,7 @@ This work is created for downstream analysis of RNA-seq and WES data
 
 **Workflow of the Pipeline**
 
-<img width="3000" height="2800" alt="Fig1" src="https://github.com/user-attachments/assets/c789fc5a-f861-4654-a639-11baade76036" />
+<img width="1000" height="500" alt="Fig1" src="https://github.com/user-attachments/assets/c789fc5a-f861-4654-a639-11baade76036" />
 
 Developed stacked model
 <img width="4400" height="2475" alt="Fig2" src="https://github.com/user-attachments/assets/44e68a57-0001-4e61-9a0d-61020a8b0f58" />
